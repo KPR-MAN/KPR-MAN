@@ -1,44 +1,36 @@
-# Welcome to My GitHub!
+<h1 align="center">Hi, I'm KPR-MAN 👋</h1>
 
-Hello and welcome to my GitHub profile! This repository showcases a variety of projects I've worked on, ranging from mobile applications to general software development. Feel free to explore the code, fork it, or reach out if you have any questions or feedback!
+<p align="center"><i>A moderate developer passionate about building useful tools for PC and Android.</i></p>
 
-## About Me
+---
 
-I am a passionate developer with a broad range of programming skills, and my main focus lies in creating efficient and scalable solutions across different domains. I work on a variety of projects, including:
+### 👨‍💻 About Me
+- 💻 Developer with a focus on **PC-related utilities**, **Python**, and **Android (Java)**
+- 🛠️ I create projects that make technology easier and more productive
+- 🧘 I prefer being quiet & let my code do the talking
 
-- **Mobile Application Development** (Android)
-- **Software Development** (Desktop, Web, and More)
-- **Algorithm Design and Problem Solving**
+---
 
-I love learning new technologies, improving my skill set, and collaborating with others to build meaningful projects.
+### 🏆 Featured Projects
 
-## Technologies & Tools
+- [**EQS**](https://github.com/KPR-MAN/EQS)  
+  <sub>An intuitive GUI Windows app (Python, PyInstaller) for effortless file transfers.</sub>
 
-I am skilled in the following programming languages and tools:
+- [**Adb Helper**](https://github.com/KPR-MAN/Adb-Helper)  
+  <sub>A handy script to simplify Android Debug Bridge (adb) operations.</sub>
 
-- **Programming Languages**: Java, Python, C++, C#
-- **Mobile Development**: Android (Java, Kotlin)
-- **Web Development**: HTML, CSS, JavaScript
-- **Software Development Tools**: Visual Studio, Android Studio, Git, GitHub
-- **Databases**: Firebase, SQLite
-- **Version Control**: Git
+---
 
-## Projects
+### 🚀 Skills
 
-Here are a few of the projects I’ve worked on:
+- **Python**  |  **Java (Android Development)**  |  **PC Utilities**
 
-- **File Transfer App**: An GUI Transfer App That Uses Local Web To Transfer Data , Built With Python And Tkinter.
-- **Adb Helper**: An GUI Helper App To Help You Use Adb Commands More Easily Using Interactive Ways.
+---
 
-Check out the repositories for more details and documentation on each project.
+### 🌐 Find Me Online
 
-## Contact
+- 📝 [My Blog](https://k-max2.blogspot.com)
 
-If you'd like to reach out, feel free to:
+---
 
-- Open an issue or submit a pull request in any of my repositories.
-- Send me a message via GitHub.
-
-## Contributing
-
-Contributions are always welcome! If you'd like to contribute to any of my projects, please feel free to fork the repository, make improvements, and submit a pull request.
+<p align="center"><sub>Minimal | Modern | Focused</sub></p>
