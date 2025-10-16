@@ -21,16 +21,6 @@ My work reflects simplicity, structure, and attention to detail.
 
 ---
 
-### Other Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" alt="File Management" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" alt="Document Editing" />
-</p>
-
-*(Includes experience with Microsoft Word and PDF editing)*
-
----
-
 ### GitHub Stats
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KPR-MAN&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" />
