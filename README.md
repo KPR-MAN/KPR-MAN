@@ -1,36 +1,43 @@
-<h1 align="center">Hi, I'm KPR-MAN 👋</h1>
+# Karas Basem
 
-<p align="center"><i>A moderate developer passionate about building useful tools for PC and Android.</i></p>
+**Student & Programmer from Egypt**
 
----
-
-### 👨‍💻 About Me
-- 💻 Developer with a focus on **PC-related utilities**, **Python**, and **Android (Java)**
-- 🛠️ I create projects that make technology easier and more productive
-- 🧘 I prefer being quiet & let my code do the talking
+I focus on creating **clean, minimalist applications** with clarity and purpose.  
+My work reflects simplicity, structure, and attention to detail.
 
 ---
 
-### 🏆 Featured Projects
-
-- [**EQS**](https://github.com/KPR-MAN/EQS)  
-  <sub>An intuitive GUI Windows app (Python, PyInstaller) for effortless file transfers.</sub>
-
-- [**Adb Helper**](https://github.com/KPR-MAN/Adb-Helper)  
-  <sub>A handy script to simplify Android Debug Bridge (adb) operations.</sub>
-
----
-
-### 🚀 Skills
-
-- **Python**  |  **Java (Android Development)**  |  **PC Utilities**
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+</p>
 
 ---
 
-### 🌐 Find Me Online
-
-- 📝 [My Blog](https://k-max2.blogspot.com)
+### Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android" />
+</p>
 
 ---
 
-<p align="center"><sub>Minimal | Modern | Focused</sub></p>
+### Other Skills
+PDF Editing · Microsoft Word
+
+---
+
+### GitHub Stats
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KPR-MAN&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPR-MAN&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+---
+
+### Contact
+📧 [karasssss777@gmail.com](mailto:karasssss777@gmail.com)  
+🔗 [GitHub Profile](https://github.com/KPR-MAN)
