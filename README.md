@@ -23,7 +23,8 @@ My work reflects simplicity, structure, and attention to detail.
 
 ### Other Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=word,pdf&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="40" alt="Microsoft Word" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" width="40" alt="PDF Editing" style="filter: invert(1);" />
 </p>
 
 ---
