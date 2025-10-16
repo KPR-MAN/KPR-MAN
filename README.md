@@ -23,9 +23,11 @@ My work reflects simplicity, structure, and attention to detail.
 
 ### Other Skills
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="40" alt="Microsoft Word" style="filter: invert(1);" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" width="40" alt="PDF Editing" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" alt="File Management" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" alt="Document Editing" />
 </p>
+
+*(Includes experience with Microsoft Word and PDF editing)*
 
 ---
 
